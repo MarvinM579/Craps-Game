@@ -16,7 +16,7 @@ def roll():
     global point
     global roundOver, houseWins, playerWins
 
-    if not(pointOn):
+    if not pointOn:
         wager()
 
     d1 = randint(1, 6)

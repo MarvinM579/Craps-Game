@@ -7,7 +7,7 @@ pointOn = False
 playerBank = 10000
 betAmount = 0
 
-name = raw_input("\nHello, what is your name? ")
+name = raw_input("\nHello, what's your name? ")
 print "\nHi " + name + ", welcome to the DigitalCrafts Casino. Let's play some craps!"
 
 

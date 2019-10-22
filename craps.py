@@ -95,3 +95,5 @@ def wager():
         wager()
 
 startGame()
+
+# just some changes to test a commit

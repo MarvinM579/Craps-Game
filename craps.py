@@ -10,7 +10,7 @@ betAmount = 0
 name = raw_input("\nHello, what's your name? ")
 print "\nHi " + name + ", welcome to the DigitalCrafts Casino. Let's play some craps!"
 
-
+# adding something real quick
 def roll():
     global pointOn
     global point
